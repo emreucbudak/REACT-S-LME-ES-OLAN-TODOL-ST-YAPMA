@@ -1,0 +1,13 @@
+.taskListe {
+    display: flex;
+    flex-direction: column;
+}
+.taskCard {
+    border: 2px solid rgb(255, 0, 0);
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 5px solid;
+}
